@@ -312,3 +312,5 @@ Get your API key from [Perplexity AI](https://www.perplexity.ai/).
 ## License
 
 Personal project for learning purposes.
+
+

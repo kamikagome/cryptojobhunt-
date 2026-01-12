@@ -1,7 +1,6 @@
 """Perplexity API client for job discovery."""
 
 import os
-import json
 import requests
 from pathlib import Path
 from typing import Optional
